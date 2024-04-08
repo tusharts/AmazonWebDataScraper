@@ -1,8 +1,6 @@
 # AmazonWebDataScraper
 Amazon Web Data Scraper is a Python script for extracting product details like title and price from Amazon's website, facilitating data collection and analysis.
 
-# Amazon Web Data Scraper
-
 ## Overview
 This Python script extracts product details such as title and price from Amazon's website. It serves as a tool for data collection and analysis, providing valuable insights into product trends and pricing dynamics.
 
